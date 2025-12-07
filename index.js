@@ -16,10 +16,10 @@ const client = new TwitterApi({
 Ayam Koplo by Hangry on SHOPEEFOOD DISKON jadi 7Ka an aja ✨😭 Nasi Ayam Goreng Penyet + Sambel 🍗 
 
 Pakai voucher disini sekarang👇👇
-spf.shopee.co.id/10sWUtZlnB
-spf.shopee.co.id/10sWUtZlnB
+https://spf.shopee.co.id/2g3rTFGbei
+https://spf.shopee.co.id/2g3rTFGbei
 
-t. gofood grabfood kode promo go grab shopee food sfood daget gojek thr Gary Iskak Raisa 
+t. gofood grabfood kode promo go grab shopee food sfood daget gojek thr shopeepay malam jumat 
 `;
 
     // 📸 Upload dua gambar
@@ -37,4 +37,5 @@ t. gofood grabfood kode promo go grab shopee food sfood daget gojek thr Gary Isk
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
